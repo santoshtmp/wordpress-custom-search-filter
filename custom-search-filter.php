@@ -4,7 +4,7 @@
 Plugin Name: CSF - Custom Search Filter
 Description: CSF - Custom Search Filter library plugin purpose to make search filter easier for admin and developer by providing form and query it.
 Contributors: younginnovations, santoshtmp7
-Plugin URI: https://github.com/santoshtmp/csf-search-filter
+Plugin URI: https://github.com/santoshtmp/wordpress-custom-search-filter
 Tags: CSF, search, form, query
 Version: 1.3
 Author: YIPL santoshtmp7
@@ -76,7 +76,7 @@ function csf_filter_add_settings_link($links)
 // {
 //     if ('csf-search-filter/csf-search-filter.php' == $file) {
 //         $row_meta = [
-//             'View details' => '<a rel="noopener" href="https://github.com/santoshtmp/csf-search-filter"  target="_blank">' . esc_html__('Visit plugin site ', 'csf-search-filter') . '</a>',
+//             'View details' => '<a rel="noopener" href="https://github.com/santoshtmp/wordpress-custom-search-filter"  target="_blank">' . esc_html__('Visit plugin site ', 'csf-search-filter') . '</a>',
 //         ];
 //         $links = array_merge($links, $row_meta);
 //         return $links;

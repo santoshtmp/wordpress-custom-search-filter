@@ -3,7 +3,7 @@ Contributors: younginnovations, santoshtmp7
 Tags: CSF, form, query
 Author: YIPL santoshtmp7
 Author URI: https://github.com/santoshtmp
-Plugin URI: https://github.com/santoshtmp/csf-search-filter
+Plugin URI: https://github.com/santoshtmp/wordpress-custom-search-filter
 Requires WP: 6.5
 Requires at least: 6.5
 Tested up to: 6.6.1
