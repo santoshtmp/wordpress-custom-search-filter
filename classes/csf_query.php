@@ -2,7 +2,7 @@
 
 /**
  * =========================================
- * Plugin Name: CSF - Search Filter library
+ * Plugin Name: CSF - Custom Search Filter library
  * Description: A plugin for search filter to generate form and query the form, used full for developer. 
  * Version: 1.3
  * =======================================

@@ -1,4 +1,4 @@
-=== CSF - Search Filter ===
+=== CSF - Custom Search Filter ===
 Contributors: younginnovations, santoshtmp7
 Tags: CSF, form, query
 Author: YIPL santoshtmp7
@@ -18,7 +18,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 To make search filter form and query easy.
 
 == Description ==
-CSF - Search Filter library plugin purpose to make search filter easier for admin and developer by providing form and query it.
+CSF - Custom Search Filter library plugin purpose to make search filter easier for admin and developer by providing form and query it.
 
 == Screenshots ==
 1. csf-admin-setting-page.png

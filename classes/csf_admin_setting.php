@@ -2,7 +2,7 @@
 
 /**
  * =========================================
- * Plugin Name: CSF - Search Filter library
+ * Plugin Name: CSF - Custom Search Filter library
  * Description: A plugin for search filter to generate form and query the form, used full for developer. 
  * Version: 1.3
  * =======================================
@@ -31,8 +31,8 @@ class CSF_Admin_setting
     public function this_plugin_settings_submenu()
     {
         add_options_page(
-            'CSF - Search Filter', // Page title
-            'CSF - Search Filter', // Menu title
+            'CSF - Custom Search Filter', // Page title
+            'CSF - Custom Search Filter', // Menu title
             'manage_options',     // Capability required to see the menu
             self::$page_slug, // Menu slug
             [$this, 'csf_setting_page_callback'] // Function to display the page content
@@ -73,7 +73,7 @@ class CSF_Admin_setting
     {
 ?>
         <div class="wrap">
-            <h1>CSF - Search Filter</h1>
+            <h1>CSF - Custom Search Filter</h1>
             <form method="post" action="options.php">
                 <?php
                 // Output security fields for the registered setting

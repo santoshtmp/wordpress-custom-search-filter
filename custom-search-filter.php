@@ -1,9 +1,8 @@
 <?php
 
 /*
-
-Plugin Name: CSF - Search Filter
-Description: CSF - Search Filter library plugin purpose to make search filter easier for admin and developer by providing form and query it.
+Plugin Name: CSF - Custom Search Filter
+Description: CSF - Custom Search Filter library plugin purpose to make search filter easier for admin and developer by providing form and query it.
 Contributors: younginnovations, santoshtmp7
 Plugin URI: https://github.com/santoshtmp/csf-search-filter
 Tags: CSF, search, form, query
